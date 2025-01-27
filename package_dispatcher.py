@@ -10,8 +10,9 @@ Usage:
         from utilities.package_dispatcher import sort
         stack = sort(width=5, height=5, length=5, mass=5)
 
+Test:   test_package_dispatcher
 Author: Michael Kumicich
-Date: January 2025
+Date:   January 26, 2025
 """
 
 

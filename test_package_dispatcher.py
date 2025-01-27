@@ -1,3 +1,12 @@
+"""
+This module acts as unittest for the package_dispatcher's sort and _is_bulky_package functions.
+
+Source: package_dispatcher
+Author: Michael Kumicich
+Date:   January 26, 2025
+"""
+
+
 import unittest
 from package_dispatcher import sort, _is_bulky_package
 
